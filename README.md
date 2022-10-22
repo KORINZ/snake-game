@@ -35,13 +35,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple and classical snake game made by turtle module in Python 3 through an object-oriented programming approach.
+A simple and classical snake game made by turtle graphics module in Python 3 through an object-oriented programming approach.
 
 Python version used: 3.10.7.
 
-You can learn more about the snake game on its Wikipedia page: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
+You can learn more about the snake game on its Wikipedia page: https://en.wikipedia.org/wiki/Snake_(video_game_genre).
 
-You can learn more about the turtle graphics on the Python documentation page: https://docs.python.org/3/library/turtle.html
+You can learn more about turtle graphics module on its Python documentation page: https://docs.python.org/3/library/turtle.html.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +69,6 @@ Python 3 is required. You can download the latest version through https://www.py
    ```sh
    python3 main.py
    ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
