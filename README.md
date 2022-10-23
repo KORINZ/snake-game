@@ -51,7 +51,7 @@ You can learn more about turtle graphics module on its Python documentation page
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)](https://www.python.org/downloads/)
 
-Python 3 is required. You can download the latest version through https://www.python.org/downloads/. You can also intall or update Python 3 in your terminal; depending on your operating system, the command to do so might be different.
+Python 3.8 or above is required. You can download the latest version through https://www.python.org/downloads/. You can also intall or update Python 3 in your terminal; depending on your operating system, the command to do so might be different.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
