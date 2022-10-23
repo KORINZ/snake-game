@@ -57,15 +57,15 @@ Python 3.8 or above is required. You can download the latest version through htt
 
 ### Terminal Execution
 
-1. Clone the repo in a directory that is not currently a git repo
+1. Clone the repo in a directory that is not currently a git repo:
    ```sh
    git clone https://github.com/KORINZ/snake_game.git
    ```
-2. Change the directory to the clone repo
+2. Change the directory to the cloned repo:
    ```sh
    cd snake_game
    ```
-3. Execute the main.py file
+3. Execute the main.py file:
    ```sh
    python3 main.py
    ```
